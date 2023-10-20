@@ -106,3 +106,14 @@ ul.opciones li a {
 .fuente-oscura {color: #22211f;}
 .fuente-acento {color: #b59a61;}
 
+
+.greeting {
+    color: #fff;
+    background-color: #5995da;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
